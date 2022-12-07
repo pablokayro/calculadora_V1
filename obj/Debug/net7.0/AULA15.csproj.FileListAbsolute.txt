@@ -1,0 +1,15 @@
+C:\CURSOS\csharp\AULA15\bin\Debug\net7.0\AULA15.exe
+C:\CURSOS\csharp\AULA15\bin\Debug\net7.0\AULA15.deps.json
+C:\CURSOS\csharp\AULA15\bin\Debug\net7.0\AULA15.runtimeconfig.json
+C:\CURSOS\csharp\AULA15\bin\Debug\net7.0\AULA15.dll
+C:\CURSOS\csharp\AULA15\bin\Debug\net7.0\AULA15.pdb
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.csproj.AssemblyReference.cache
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.AssemblyInfoInputs.cache
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.AssemblyInfo.cs
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.csproj.CoreCompileInputs.cache
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.dll
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\refint\AULA15.dll
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.pdb
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\AULA15.genruntimeconfig.cache
+C:\CURSOS\csharp\AULA15\obj\Debug\net7.0\ref\AULA15.dll
